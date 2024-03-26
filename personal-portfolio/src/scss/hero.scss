@@ -1,0 +1,35 @@
+@import 'colors';
+
+.hero{
+    background-image: url("../assets/hero-background.png"); background-size: cover; background-position: right top; background-repeat: no-repeat;
+}
+
+.heading{
+    
+    h1{
+        font-family: "Courier Prime", monospace;
+        font-weight: 600;
+        color: $main-dark;
+    }
+    .typewriter{
+        font-family: "Courier Prime", monospace;
+        font-weight: 900;
+        color: #0060D0;
+    }
+
+    .firstName{
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-size: 80px;
+        color: transparent; 
+         -webkit-text-stroke-width: 2px; 
+        -webkit-text-stroke-color: $main-dark; 
+
+    }
+    
+    width: 100%;
+    font-size: 35px;
+    display: flex;  align-items: center;
+}
+
+
