@@ -1,5 +1,12 @@
+html{
+    scroll-snap-type: both mandatory;
+    
+}
+
 section{
+    scroll-snap-align: start;
     height: 100vh;
+    scroll-behavior: smooth;
 }
 
 body {
