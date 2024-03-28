@@ -88,23 +88,29 @@ function App() {
          </div> 
          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec justo eu orci tempus euismod. </p>
             <div className="project-container">
-              <div className="project-card">
+              <div className="project-card portfolio">
                 <img src="/src/assets/PORTFOLIO-CARD.png" alt="" />
+                <button className="card-button">Discover more</button>
               </div>
-              <div className="project-card">
+              <div className="project-card sushe">
                 <img src="/src/assets/sushe-CARD.png" alt="" />
+                <button className="card-button">Discover more</button>
               </div>
-              <div className="project-card">
+              <div className="project-card poke">
                 <img src="/src/assets/pockeddex-CARD.png" alt="" />
+                <button className="card-button">Discover more</button>
               </div>
-              <div className="project-card">
+              <div className="project-card jemib">
                 <img src="/src/assets/JEMIB-CARD.png" alt="" />
+                <button className="card-button">Discover more</button>
               </div>
-              <div className="project-card">
+              <div className="project-card gaja">
                 <img src="/src/assets/GAJA-CARD.png" alt="" />
+                <button className="card-button">Discover more</button>
               </div>
               <div className="project-card">
                 <img src="/src/assets/pockeddex-CARD.png" alt="" />
+                <button className="card-button">Discover more</button>
               </div>
             </div>
         </div>
