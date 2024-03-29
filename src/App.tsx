@@ -89,27 +89,27 @@ function App() {
          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec justo eu orci tempus euismod. </p>
             <div className="project-container">
               <div className="project-card portfolio">
-                <img src="/src/assets/PORTFOLIO-CARD.png" alt="" />
+                <img src="/PORTFOLIO-CARD.png" alt="" />
                 <button className="card-button">Discover more</button>
               </div>
               <div className="project-card sushe">
-                <img src="/src/assets/sushe-CARD.png" alt="" />
+                <img src="/sushe-CARD.png" alt="" />
                 <button className="card-button">Discover more</button>
               </div>
               <div className="project-card poke">
-                <img src="/src/assets/pockeddex-CARD.png" alt="" />
+                <img src="/pockeddex-CARD.png" alt="" />
                 <a href="https://github.com/matttre3/pocketdex-m3" target="_blank" className="card-button">Discover more</a>
               </div>
               <div className="project-card jemib">
-                <img src="/src/assets/JEMIB-CARD.png" alt="" />
+                <img src="/JEMIB-CARD.png" alt="" />
                 <button className="card-button">Discover more</button>
               </div>
               <div className="project-card gaja">
-                <img src="/src/assets/GAJA-CARD.png" alt="" />
+                <img src="/GAJA-CARD.png" alt="" />
                 <button className="card-button">Discover more</button>
               </div>
               <div className="project-card">
-                <img src="/src/assets/pockeddex-CARD.png" alt="" />
+                <img src="/pockeddex-CARD.png" alt="" />
                 <button className="card-button">Discover more</button>
               </div>
             </div>
