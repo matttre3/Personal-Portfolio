@@ -97,7 +97,7 @@ function App() {
                 <a className="card-button">Discover more</a>
               </div>
               <div className="project-card poke">
-                <img src="/POCCKEDEX-CARD.png" alt="" />
+                <img src="/POKE-CARD.png" alt="" />
                 <a href="https://github.com/matttre3/pocketdex-m3" target="_blank" className="card-button">Discover more</a>
               </div>
               <div className="project-card jemib">
@@ -109,7 +109,7 @@ function App() {
                 <a className="card-button">Discover more</a>
               </div>
               <div className="project-card">
-                <img src="/POCCKEDEX-CARD.png" alt="" />
+                <img src="/POKE-CARD.png" alt="" />
                 <a className="card-button">Discover more</a>
               </div>
             </div>
