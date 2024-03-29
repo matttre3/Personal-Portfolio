@@ -98,7 +98,7 @@ function App() {
               </div>
               <div className="project-card poke">
                 <img src="/src/assets/pockeddex-CARD.png" alt="" />
-                <button className="card-button">Discover more</button>
+                <a href="https://github.com/matttre3/pocketdex-m3" target="_blank" className="card-button">Discover more</a>
               </div>
               <div className="project-card jemib">
                 <img src="/src/assets/JEMIB-CARD.png" alt="" />
