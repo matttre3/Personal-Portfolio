@@ -1,35 +1,35 @@
-@import 'colors';
+@import "colors";
 
-.hero{
-    background-image: url("../assets/hero-background.png"); background-size: cover; background-position: right top; background-repeat: no-repeat;
+.hero {
+  background-image: url("/hero-background.png");
+  background-size: cover;
+  background-position: right top;
+  background-repeat: no-repeat;
 }
 
-.heading{
-    
-    h1{
-        font-family: "Courier Prime", monospace;
-        font-weight: 600;
-        color: $main-dark;
-    }
-    .typewriter{
-        font-family: "Courier Prime", monospace;
-        font-weight: 900;
-        color: #0060D0;
-    }
+.heading {
+  h1 {
+    font-family: "Courier Prime", monospace;
+    font-weight: 600;
+    color: $main-dark;
+  }
+  .typewriter {
+    font-family: "Courier Prime", monospace;
+    font-weight: 900;
+    color: #0060d0;
+  }
 
-    .firstName{
-        font-family: "Poppins", sans-serif;
-        font-weight: 700;
-        font-size: 80px;
-        color: $main-dark; 
-         -webkit-text-stroke-width: 2px; 
-        -webkit-text-stroke-color: $main-dark; 
+  .firstName {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+    color: $main-dark;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: $main-dark;
+  }
 
-    }
-    
-    width: 100%;
-    font-size: 35px;
-    display: flex;  align-items: center;
+  width: 100%;
+  font-size: 35px;
+  display: flex;
+  align-items: center;
 }
-
-

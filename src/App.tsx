@@ -90,11 +90,11 @@ function App() {
             <div className="project-container">
               <div className="project-card portfolio">
                 <img src="/PORTFOLIO-CARD.png" alt="" />
-                <button className="card-button">Discover more</button>
+                <a className="card-button">Discover more</a>
               </div>
               <div className="project-card sushe">
                 <img src="/sushe-CARD.png" alt="" />
-                <button className="card-button">Discover more</button>
+                <a className="card-button">Discover more</a>
               </div>
               <div className="project-card poke">
                 <img src="/pockeddex-CARD.png" alt="" />
@@ -102,15 +102,15 @@ function App() {
               </div>
               <div className="project-card jemib">
                 <img src="/JEMIB-CARD.png" alt="" />
-                <button className="card-button">Discover more</button>
+                <a className="card-button">Discover more</a>
               </div>
               <div className="project-card gaja">
                 <img src="/GAJA-CARD.png" alt="" />
-                <button className="card-button">Discover more</button>
+                <a className="card-button">Discover more</a>
               </div>
               <div className="project-card">
                 <img src="/pockeddex-CARD.png" alt="" />
-                <button className="card-button">Discover more</button>
+                <a className="card-button">Discover more</a>
               </div>
             </div>
         </div>
