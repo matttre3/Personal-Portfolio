@@ -1,6 +1,8 @@
 @import "colors";
 
 .hero {
+  height: 100vh;
+  margin-top: 0px;
   background-image: url("/hero-background.png");
   background-size: cover;
   background-position: right top;
@@ -8,10 +10,25 @@
 }
 
 .heading {
+  margin: auto;
+
+  @media (min-width: 992px) {
+    justify-content: baseline;
+  }
+
   h1 {
     font-family: "Courier Prime", monospace;
     font-weight: 600;
     color: $main-dark;
+    font-size: 16px;
+
+    @media (min-width: 576px) {
+      font-size: 35px;
+    }
+
+    @media (min-width: 992px) {
+      font-size: 1.5em;
+    }
   }
   .typewriter {
     font-family: "Courier Prime", monospace;
@@ -21,11 +38,21 @@
 
   .firstName {
     font-family: "Poppins", sans-serif;
-    font-weight: 700;
-    font-size: 80px;
+    font-weight: 800;
+    font-size: 30px;
     color: $main-dark;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: $main-dark;
+
+    @media (min-width: 576px) {
+      font-size: 40px;
+    }
+
+    @media (min-width: 768px) {
+      font-size: 50px;
+    }
+
+    @media (min-width: 992px) {
+      font-size: 80px;
+    }
   }
 
   width: 100%;
