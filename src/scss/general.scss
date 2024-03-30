@@ -47,8 +47,16 @@ h1 {
     width: 300px;
   }
 
+  @media (min-width: 450px) {
+    width: 400px;
+  }
+
   @media (min-width: 576px) {
     width: 540px;
+  }
+
+  @media (min-width: 680px) {
+    width: 660px;
   }
 
   @media (min-width: 768px) {
