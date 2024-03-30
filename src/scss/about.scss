@@ -66,9 +66,9 @@
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
     margin-top: 50px;
     width: fit-content;
-    background-color: transparent;
-    border: 2px solid $main-dark;
-    color: $main-dark;
+    background-color: $main-dark;
+    text-transform: uppercase;
+    color: white;
     font-family: Poppins;
     border-radius: 10px;
     padding: 8px 30px;
