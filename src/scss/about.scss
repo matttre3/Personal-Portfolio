@@ -91,6 +91,14 @@
     padding: 8px 30px;
     font-size: 16px;
     text-decoration: none;
+    transition: 0.3s;
+    border: 1px solid $main-dark;
+
+    &:hover {
+      background-color: transparent;
+      color: $main-dark;
+      border: 1px solid $main-dark;
+    }
   }
 }
 

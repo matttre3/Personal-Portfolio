@@ -1,6 +1,6 @@
 const ProjectSection = () => {
   return (
-    <section className="projects">
+    <section id="projects" className="projects">
       <div className="container">
         <div className="titleContainer checkpoint" data-ref="2">
           <svg
