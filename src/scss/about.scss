@@ -3,11 +3,19 @@
     margin: 0px;
     font-size: 30px;
     font-weight: bold;
+
+    @media screen and (min-width: 1280px) and (min-height: 644px) and (max-height: 792px) {
+      font-size: 20px;
+    }
   }
 
   p {
     margin-top: 10px;
     line-height: 32px;
+
+    @media screen and (min-width: 1280px) and (min-height: 644px) and (max-height: 792px) {
+      line-height: 27px;
+    }
   }
 
   .info {
@@ -34,6 +42,10 @@
       align-items: center;
       justify-content: center;
       flex-direction: row;
+
+      @media screen and (min-width: 1280px) and (min-height: 644px) and (max-height: 792px) {
+        margin-top: 20px;
+      }
 
       @media (min-width: 1400px) {
         width: 50%;
@@ -74,5 +86,11 @@
     padding: 8px 30px;
     font-size: 16px;
     text-decoration: none;
+  }
+}
+
+@media screen and (min-width: 1280px) and (min-height: 644px) and (max-height: 792px) {
+  h3 {
+    font-size: 20px;
   }
 }
