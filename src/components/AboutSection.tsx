@@ -81,8 +81,8 @@ const AboutSection = () => {
           </div>
         </div>
         <a
-          href="/resume-romano-matteo"
-          download="resume-romano-matte"
+          href="/resume-romano-matteo.pdf"
+          download="resume-romano-matteo"
           className="cv-button"
         >
           Download CV
