@@ -26,16 +26,6 @@ const ProjectSection = () => {
           justo eu orci tempus euismod.{" "}
         </p>
         <div className="project-container">
-          <div className="project-card portfolio">
-            <img src="/PORTFOLIO-CARD.png" alt="" />
-            <a
-              href="https://github.com/matttre3/Personal-Portfolio"
-              target="_blank"
-              className="card-button"
-            >
-              Discover more
-            </a>
-          </div>
           <div className="project-card sushe">
             <img src="/SUSHE-CARD.png" alt="" />
             <a
@@ -56,13 +46,25 @@ const ProjectSection = () => {
               Discover more
             </a>
           </div>
+          <div className="project-card portfolio">
+            <img src="/PORTFOLIO-CARD.png" alt="" />
+            <a
+              href="https://github.com/matttre3/Personal-Portfolio"
+              target="_blank"
+              className="card-button"
+            >
+              Discover more
+            </a>
+          </div>
           <div className="project-card f1">
             <img src="/F1-CARD.png" alt="" />
-            <a className="card-button">Discover more</a>
+            <a className="card-button progress">In Progress</a>
           </div>
           <div className="project-card jemib">
             <img src="/JEMIB-CARD.png" alt="" />
-            <a className="card-button">Discover more</a>
+            <a href="https://jemib.it/" className="card-button">
+              Discover more
+            </a>
           </div>
           <div className="project-card gaja">
             <img src="/GAJA-CARD.png" alt="" />
