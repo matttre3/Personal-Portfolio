@@ -56,6 +56,10 @@ const ProjectSection = () => {
               Discover more
             </a>
           </div>
+          <div className="project-card f1">
+            <img src="/F1-CARD.png" alt="" />
+            <a className="card-button">Discover more</a>
+          </div>
           <div className="project-card jemib">
             <img src="/JEMIB-CARD.png" alt="" />
             <a className="card-button">Discover more</a>
@@ -69,10 +73,6 @@ const ProjectSection = () => {
             >
               Discover more
             </a>
-          </div>
-          <div className="project-card">
-            <img src="/POKE-CARD.png" alt="" />
-            <a className="card-button">Discover more</a>
           </div>
         </div>
       </div>
