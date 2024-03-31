@@ -149,9 +149,8 @@ h2 {
   stroke-dashoffset: 500;
   fill: $main-dark;
   fill-opacity: 0;
-
   font-size: 54px;
-
+  animation-fill-mode: forwards;
   @media (min-width: 576px) {
     font-size: 80px;
     top: 8%;
