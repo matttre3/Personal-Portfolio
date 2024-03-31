@@ -22,8 +22,8 @@ const ProjectSection = () => {
           <h2>PROJECTS</h2>
         </div>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec
-          justo eu orci tempus euismod.{" "}
+          Explore an array of innovative projects showcasing my creative
+          endeavors and technical prowess in web development and design.
         </p>
         <div className="project-container">
           <div className="project-card sushe">
