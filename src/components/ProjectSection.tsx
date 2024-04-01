@@ -58,7 +58,7 @@ const ProjectSection = () => {
           </div>
           <div className="project-card f1">
             <img src="/F1-CARD.png" alt="" />
-            <a className="card-button progress">In Progress</a>
+            <a className="card-button">Discover more</a>
           </div>
           <div className="project-card jemib">
             <img src="/JEMIB-CARD.png" alt="" />
