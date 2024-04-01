@@ -60,6 +60,7 @@ const ProjectSection = () => {
             <img src="/F1-CARD.png" alt="" />
             <a
               href="https://github.com/matttre3/apex/blob/main/README.md"
+              target="_blank"
               className="card-button"
             >
               Discover more
@@ -67,7 +68,7 @@ const ProjectSection = () => {
           </div>
           <div className="project-card jemib">
             <img src="/JEMIB-CARD.png" alt="" />
-            <a href="https://jemib.it/" className="card-button">
+            <a href="https://jemib.it/" className="card-button" target="_blank">
               Discover more
             </a>
           </div>
