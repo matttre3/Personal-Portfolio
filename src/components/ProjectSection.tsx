@@ -49,7 +49,7 @@ const ProjectSection = () => {
           <div className="project-card mie">
             <img src="/MIE-CARD.png" alt="" />
             <a
-              href="https://github.com/matttre3/Mie"
+              href="https://github.com/matttre3/Mie/blob/main/README.md"
               target="_blank"
               className="card-button"
             >
@@ -58,7 +58,12 @@ const ProjectSection = () => {
           </div>
           <div className="project-card f1">
             <img src="/F1-CARD.png" alt="" />
-            <a className="card-button">Discover more</a>
+            <a
+              href="https://github.com/matttre3/apex/blob/main/README.md"
+              className="card-button"
+            >
+              Discover more
+            </a>
           </div>
           <div className="project-card jemib">
             <img src="/JEMIB-CARD.png" alt="" />
