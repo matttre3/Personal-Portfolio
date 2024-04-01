@@ -46,10 +46,10 @@ const ProjectSection = () => {
               Discover more
             </a>
           </div>
-          <div className="project-card portfolio">
-            <img src="/PORTFOLIO-CARD.png" alt="" />
+          <div className="project-card mie">
+            <img src="/MIE-CARD.png" alt="" />
             <a
-              href="https://github.com/matttre3/Personal-Portfolio"
+              href="https://github.com/matttre3/Mie"
               target="_blank"
               className="card-button"
             >
